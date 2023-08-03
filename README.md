@@ -1,7 +1,7 @@
 # Desenvolvimento FullStack - PUCRS
 Repositório contendo conteúdos abordados na Especialização de Desenvolvimento Full Stack PUCRS
 
-## Matérias abordadas:
+## Matérias:
 
   1. Projeto em Desenvolvimento de Aplicação WEB - Parte 1;
   
